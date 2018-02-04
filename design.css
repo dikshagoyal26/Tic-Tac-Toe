@@ -1,0 +1,24 @@
+div{
+    margin:50px;
+}
+
+button{
+    border: 2px solid #333;
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    font-weight: 200;
+    font-size: bold;
+    padding: 5 px;
+    margin: 2.5px;
+}
+
+#reset{
+    height: auto;
+    width: auto;
+    background-color: aliceblue;
+    font-weight: 80;
+    font-size: bold;
+    
+}
+
